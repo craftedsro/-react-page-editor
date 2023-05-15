@@ -60,6 +60,6 @@
   },
   "publishConfig": {
     "access": "public",
-    "@craftedsro:registry": "https://npm.pkg.github.com"
+    "@milan.jakubec:registry": "https://npm.pkg.github.com"
   }
 }
