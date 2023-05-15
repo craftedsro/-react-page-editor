@@ -71,5 +71,8 @@
   "keywords": [
     "react-page;",
     "editor"
-  ]
+  ],
+  "directories": {
+    "test": "test"
+  }
 }
