@@ -59,6 +59,7 @@
     "@types/react-portal": "^4.0.4"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "@craftedsro:registry": "https://npm.pkg.github.com"
   }
 }
