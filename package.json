@@ -8,7 +8,7 @@
   "sideEffects": false,
   "typings": "./lib/index.d.ts",
   "repository": {
-    "url": "https://github.com/react-page/react-page"
+    "url": "git+https://github.com/react-page/react-page.git"
   },
   "scripts": {
     "build": "npm-run-all --parallel build:lib build:css",
@@ -37,6 +37,7 @@
     "lodash.debounce": "^4.0.8",
     "lodash.flatten": "^4.4.0",
     "lodash.throttle": "^4.1.1",
+    "npmrc": "^1.1.1",
     "react-color": "^2.19.3",
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
@@ -61,5 +62,14 @@
   "publishConfig": {
     "access": "public",
     "@craftedsro:registry": "https://npm.pkg.github.com"
-  }
+  },
+  "description": "This is ReactPage's main Component.",
+  "bugs": {
+    "url": "https://github.com/react-page/react-page/issues"
+  },
+  "homepage": "https://github.com/react-page/react-page#readme",
+  "keywords": [
+    "react-page;",
+    "editor"
+  ]
 }
